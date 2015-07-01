@@ -33,7 +33,7 @@ namespace Id3.Frames
         }
     }
 
-    public sealed class AlbumFrame : TextFrame
+    public class AlbumFrame : TextFrame
     {
     }
 
